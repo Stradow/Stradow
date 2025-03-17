@@ -6,8 +6,11 @@ I'm currently enrolled in the Web & App Development Bootcamp at WBS Coding Schoo
 Join me as I explore the world of web development, one line of code at a time! 🚀
 
 🌍 Where to find me
+
 📍 Based in: Hamburg, Germany
+
 📧 Contact: karydis_kostas@icloud.com
+
 🧠 Currently Learning: Full-Stack Web Development
 
 ### 🛠️ Tech Stack & Tools I'm Learning  
