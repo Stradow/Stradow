@@ -1,7 +1,9 @@
-Hi 👋 My name is Kostas Karydis
+Hi 👋 My name is Kostas
 ===============================
 
-I'm currently on an exciting journey with WBS Coding School, diving deep into the realms of HTML, CSS, JavaScript, and Vue.js. Passionate about crafting beautiful and functional web experiences, I'm constantly honing my skills to create impactful projects. Join me as I explore the world of web development, one line of code at a time! 🚀
+I'm currently enrolled in the Web & App Development Bootcamp at WBS Coding School, where I'm mastering full-stack development with modern web technologies. Passionate about crafting beautiful and functional web experiences, I'm constantly honing my skills to build impactful projects.
+
+Join me as I explore the world of web development, one line of code at a time! 🚀
 
 *   🌍  I'm based in Hamburg, Germany
 *   ✉️  You can contact me at [karydis\_kostas@icloud.com](mailto:karydis_kostas@icloud.com)
