@@ -1,9 +1,11 @@
 Hi 👋 My name is Kostas
 ===============================
 
-I'm currently enrolled in the Web & App Development Bootcamp at WBS Coding School, where I'm mastering full-stack development with modern web technologies. Passionate about crafting beautiful and functional web experiences, I'm constantly honing my skills to build impactful projects.
+I recently completed the Web & App Development Bootcamp at WBS Coding School, where I built a strong foundation in full-stack development with modern web technologies. I’m passionate about creating functional and user-friendly web applications and eager to keep improving my skills through real-world projects.
 
-Join me as I explore the world of web development, one line of code at a time! 🚀
+Currently, I’m attending a German language course to broaden my personal and professional opportunities in Germany.
+
+Join me as I continue learning, building, and growing as a developer—one step at a time!
 
 🌍 Where to find me
 
