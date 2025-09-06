@@ -13,7 +13,7 @@ Join me as I continue learning, building, and growing as a developer—one step 
 
 📧 Contact: karydis_kostas@icloud.com
 
-🧠 Currently Learning: Full-Stack Web Development
+🧠 Growing Skills In: German Language and Full-Stack Web Development
 
 ### 🛠️ Tech Stack & Tools I'm Learning  
 
