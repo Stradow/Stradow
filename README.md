@@ -7,29 +7,12 @@ Currently, I’m attending a German language course to broaden my personal and p
 
 Join me as I continue learning, building, and growing as a developer—one step at a time!
 
-🌍 Where to find me
-
 📍 Based in: Hamburg, Germany
 
 📧 Contact: karydis_kostas@icloud.com
 
 🧠 Growing Skills In: German Language and Full-Stack Web Development
 
-### 🛠️ Tech Stack & Tools I'm Learning  
+### 🛠️ Tech Stack
 
-#### 🌐 Frontend  
-- HTML5  
-- CSS3  
-- JavaScript  
-- React  
-
-#### ⚙️ Backend  
-- Node.js  
-- Express.js  
-- MongoDB  
-
-#### ⚡ Additional Tools  
-- Git  
-- GitHub  
-- REST API   
-- Gen AI Integration
+Coming soon...
