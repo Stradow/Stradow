@@ -1,4 +1,4 @@
-Hi 👋 My name is Kostas
+Hi 👋 My name is Konstantinos Karydis
 ===============================
 
 I’m a web development enthusiast focused on building functional and user-friendly applications. I enjoy learning modern technologies and improving my skills through hands-on projects.
@@ -13,4 +13,14 @@ Join me as I continue learning, building, and growing as a developer—one step 
 
 ### 🛠️ Tech Stack
 
-Coming soon...
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- React Hooks
+- React Router
+- Context API
+- Fetch API / Axios
+- Vite (Frontend tooling)
+- Responsive Design
+
