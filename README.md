@@ -18,9 +18,9 @@ Join me as I continue learning, building, and growing as a developer—one step 
 - JavaScript (ES6+)
 - React
 - React Hooks
-- React Router
-- Context API
-- Fetch API / Axios
-- Vite (Frontend tooling)
-- Responsive Design
+- Rest APIs
 
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
