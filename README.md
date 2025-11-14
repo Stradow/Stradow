@@ -16,7 +16,13 @@ Join me as I continue learning, building, and growing as a developer—one step 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
  <a href="https://www.instagram.com/kwstaskarydis/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" />
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+    alt="instagram"
+    height="40"
+    width="40"
+  />
 </a>
   <!-- Add more socials if you like -->
 </p>
