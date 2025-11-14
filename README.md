@@ -13,25 +13,39 @@ Join me as I continue learning, building, and growing as a developer—one step 
 * 🧠  I'm currently learning German language and Fullstack Web Development
 
 
+
+
 ### Socials
 
-<p align="left"> 
+<p align="left">
+
+
   <a href="https://www.linkedin.com/in/konstantinos-karydis/" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> 
-    </picture> 
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+      width="32" 
+      height="32" 
+      alt="LinkedIn" 
+      title="LinkedIn" 
+    />
   </a>
 
-  <a href="https://www.instagram.com/kwstaskarydis/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
-    </picture>
+
+ <a href="https://www.instagram.com/kwstaskarydis/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      width="32"
+      height="32"
+      alt="Instagram"
+      title="Instagram"
+    />
   </a>
+
 </p>
+
+
+</p>
+
 
 
 ### Skills
