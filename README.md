@@ -19,6 +19,8 @@ Join me as I continue learning, building, and growing as a developer—one step 
   <img
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
     alt="instagram"
+    height="40"
+    width="40"
   />
 </a>
   <!-- Add more socials if you like -->
