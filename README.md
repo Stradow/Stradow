@@ -12,10 +12,10 @@ Join me as I continue learning, building, and growing as a developer—one step 
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BK3qOt66RRP2QkLdJkDD%2B1Q%3D%3D" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/kwstaskarydis/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
   </a>
   <!-- Add more socials if you like -->
