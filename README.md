@@ -19,7 +19,7 @@ Join me as I continue learning, building, and growing as a developer—one step 
 
 <p align="left">
 
-
+/*
   <a href="https://www.linkedin.com/in/konstantinos-karydis/" target="_blank" rel="noreferrer">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
@@ -40,7 +40,7 @@ Join me as I continue learning, building, and growing as a developer—one step 
       title="Instagram"
     />
   </a>
-
+*/
 </p>
 
 
