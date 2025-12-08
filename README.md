@@ -9,7 +9,7 @@ I’m a web development enthusiast focused on building functional and user-frien
 Join me as I continue learning, building, and growing as a developer—one step at a time!
 
 * 🌍  I'm based in Hamburg, Germany
-* ✉️  You can contact me at /* [karydis_kostas@icloud.com](mailto:karydis_kostas@icloud.com) */
+* ✉️  You can contact me at...
 * 🧠  I'm currently learning German language and Fullstack Web Development
 
 
